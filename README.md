@@ -26,26 +26,21 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/
-Navigate to the project directory:
+   git clone https://github.com/your-repository-url
 
-2. cd codefusion
-3. ```bash
-Install dependencies:
+   2. Navigate to the project directory:
+   ```bash
+   cd codefusion
 
-4. npm install
-5. ```bash
-Start the development server:
 
-5. npm start
-6. ```bash
-Open your browser and go to:
+3. Install dependencies:
+   ```bash
+   npm install
 
-```bash
-http://localhost:3000
-Contributing
-Contributions are welcome! Feel free to submit a pull request or open an issue to report bugs or request new features.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+4. Start the development server:
+   ```bash
+   npm run start
+
+
 
