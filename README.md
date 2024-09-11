@@ -1,6 +1,6 @@
 # CodeFusion - Online Code Editor
 
-![CodeFusion Logo]([https://](https://jumpshare.com/v/HvboJgoK5ehNVX3BPduA?b=SJ4ImwIbaRTrjQoDIueA))
+![CodeFusion Logo](https://jumpshare.com/v/HvboJgoK5ehNVX3BPduA?b=SJ4ImwIbaRTrjQoDIueA)
 
 ## Description
 
