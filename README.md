@@ -29,15 +29,19 @@ To run the project locally:
    git clone https://github.com/
 Navigate to the project directory:
 
-cd codefusion
+2. cd codefusion
+3. ```bash
 Install dependencies:
 
-npm install
+4. npm install
+5. ```bash
 Start the development server:
 
-npm start
+5. npm start
+6. ```bash
 Open your browser and go to:
 
+```bash
 http://localhost:3000
 Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue to report bugs or request new features.
