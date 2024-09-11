@@ -20,4 +20,28 @@
 
 Check out the Figma design for **CodeFusion** [here](https://www.figma.com/design/hdFOcPMr4McRS2rWrHtzjx/CodeFusion?node-id=0-1&node-type=canvas&t=a6bZYpgvh3hc7QLw-0).
 
+## Installation
+
+To run the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/
+Navigate to the project directory:
+
+cd codefusion
+Install dependencies:
+
+npm install
+Start the development server:
+
+npm start
+Open your browser and go to:
+
+http://localhost:3000
+Contributing
+Contributions are welcome! Feel free to submit a pull request or open an issue to report bugs or request new features.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
